@@ -1,0 +1,3 @@
+-- Migration 002 — Trainer marketplace (Phase 2)
+-- Tables: trainers, trainer_listings, bookings, reviews
+-- Run when marketplace feature is ready to build
